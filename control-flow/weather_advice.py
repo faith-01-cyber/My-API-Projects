@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 def main():
     weather = input("What's the weather like today? (sunny/rainy/cold): ").strip().lower()
     if weather == "sunny":
